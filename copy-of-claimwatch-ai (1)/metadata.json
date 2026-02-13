@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ClaimWatch AI",
+  "description": "An advanced insurance fraud detection platform using Generative AI and deep learning to identify suspicious claims and protect financial assets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
